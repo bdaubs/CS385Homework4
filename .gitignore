@@ -1,0 +1,13 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Optional: local variable files
+*.tfvars
+*.tfvars.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
